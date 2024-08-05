@@ -52,7 +52,7 @@
     "passport": "^0.4.1",
     "passport-local": "^1.0.0",
     "request": "^2.88.2",
-    "ssl-express-www": "^3.0.7"
+    "ssl-express-www": "^3.2.1"
   },
   "homepage": "https://github.com/zeeoneofficial/my-rest-api#readme"
 }
